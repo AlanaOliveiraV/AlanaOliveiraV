@@ -1,7 +1,5 @@
 # 👩🏻‍💻 Alana Oliveira
 
-**`Futura Desenvolvedora Front-End`**
-
 Me chamo Alana de Oliveira, tenho 26 anos e sou natural do estado de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. Sou apaixonada por tecnologia.
 
 </p>
